@@ -16,7 +16,7 @@
 
 [git remote add origin https://github.com/your-git-username/MarketPeak_Ecommerce.git]
 
-[git push -u origin main]
+[git push -u origin master]
 
 ## step 2
 - successfuly logged into the AWS console 
@@ -47,10 +47,10 @@
 [git add .
 git commit -m "Add new features or fix bugs"
 git push origin development
-git checkout main
+git checkout master
 git merge development
-git push origin main
-git pull origin main
+git push origin master
+git pull origin master
 sudo systemctl reload httpd]
 
   ## challenges:
