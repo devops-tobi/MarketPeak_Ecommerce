@@ -52,5 +52,5 @@ git pull origin main
 sudo systemctl reload httpd]**
 
 #challenges:
-**[connecting the server with the EC2 instance, the server was unable to start until i used the "apt-get update" command.]**
+**[connecting the server with the EC2 instance, the server was unable to start until i used the "sudo systemctl start apache2" command.]**
 
