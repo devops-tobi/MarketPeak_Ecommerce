@@ -14,7 +14,7 @@
        git config --global user.email "youremail@example.com"
        git commit -m "Initial commit with basic e-commerce site structure"]**
 
-**(git remote add origin https://github.com/your-git-username/MarketPeak_Ecommerce.git)
+**[git remote add origin] (https://github.com/your-git-username/MarketPeak_Ecommerce.git)
 
 [git push -u origin master]**
 
@@ -24,7 +24,7 @@
 ## launched and EC2 instance
 
  [ **cat /home/ubuntu/.ssh/id_rsa.pub**]
-**(git clone https://github.com/devops-tobi/MarketPeak_Ecommerce.git)**
+**[git clone https://github.com/devops-tobi/MarketPeak_Ecommerce.git]**
 
 ## installed a web server (Apache) on the EC2 instance
 **  [sudo yum update -y
