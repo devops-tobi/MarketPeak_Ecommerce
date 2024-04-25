@@ -1,6 +1,6 @@
-#step by step process for the completion of this project
+## step by step process for the completion of this project
 
-#step 1
+## step 1
 - created a MarketPeak_Ecommerce directory using git bash
    [mkdir MarketPeak_Ecommerce]
     [cd MarketPeak_Ecommerce]
@@ -18,7 +18,7 @@
 
 [git push -u origin master]
 
-#step 2
+## step 2
 - successfuly logged into the AWS console 
 
 - launched and EC2 instance
@@ -38,7 +38,7 @@
 [sudo systemctl reload httpd]
 
 
-#step 3
+## step 3
 - created another development branch using git bash
   [git branch development]
 [git checkout development]
@@ -53,6 +53,6 @@ git push origin main
 git pull origin main
 sudo systemctl reload httpd]
 
-  #challenges:
+  ## challenges:
 [connecting the server with the EC2 instance, the server was unable to start until i used the "sudo systemctl start httpd" command.]
 
