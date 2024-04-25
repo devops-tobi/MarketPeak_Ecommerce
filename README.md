@@ -16,7 +16,7 @@
 
 **[git remote add origin https://github.com/your-git-username/MarketPeak_Ecommerce.git]
 
-[git push -u origin master]**
+[git push -u origin main]**
 
 #step 2
 - successfuly logged into the AWS console 
@@ -47,12 +47,12 @@ git checkout development]**
 **[git add .
 git commit -m "Add new features or fix bugs"
 git push origin development
-git checkout master
+git checkout main
 git merge development
-git push origin master
-git pull origin master
+git push origin main
+git pull origin main
 sudo systemctl reload httpd]**
 
--  challenges:
+  # challenges:
 **[connecting the server with the EC2 instance, the server was unable to start until i used the "sudo systemctl start apache2" command.]**
 
