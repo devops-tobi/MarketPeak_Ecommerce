@@ -1,19 +1,19 @@
 #step by step process for the completion of this project
 
 #step 1
--  created a MarketPeak_Ecommerce directory using git bash
-  { [ **mkdir MarketPeak_Ecommerce
+ #created a MarketPeak_Ecommerce directory using git bash
+   [ **mkdir MarketPeak_Ecommerce
     cd MarketPeak_Ecommerce
-    git init**]}
+    git init**]
 
--  created an Html file by downloading an E-commerce web template
--  successfully added and commited the changes on the main branch
-   ** { [  git add .
+#created an Html file by downloading an E-commerce web template
+#successfully added and commited the changes on the main branch
+   **  [  git add .
        git config --global user.name "YourUsername"
        git config --global user.email "youremail@example.com"
        git commit -m "Initial commit with basic e-commerce site structure"]**
 
-**[git remote add origin https://github.com/your-git-username/MarketPeak_Ecommerce.git]}
+**[git remote add origin https://github.com/your-git-username/MarketPeak_Ecommerce.git]
 
 [git push -u origin master]**
 
