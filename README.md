@@ -24,7 +24,7 @@
 #step 2
 - successfuly logged into the AWS console 
 
-- launched and EC2 instance
+- launched an EC2 instance
 
  [ **cat /home/ubuntu/.ssh/id_rsa.pub**]
 **[git clone https://github.com/devops-tobi/MarketPeak_Ecommerce.git]**
