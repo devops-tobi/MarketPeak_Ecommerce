@@ -7,6 +7,9 @@
     git init**]
 
 - created an Html file by downloading an E-commerce web template
+  [touch home.html
+  touch about.html
+  touch contactus.html]
 
 - successfully added and commited the changes on the main branch
    **  [  git add .
